@@ -16,6 +16,7 @@ Estudiante de Ingeniería en Sistemas Computacionales en el Centro Universitario
 ## Conéctate conmigo:
 - [GitHub](https://github.com/itzcoatl397)
 
+-https://rxresu.me/itzcoatl397/gerardo
 ## Lenguajes y Herramientas:
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
