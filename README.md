@@ -14,15 +14,14 @@ I'm a Software Engineering student at Universidad Politecnica Pachuca, Mexico. I
 
 ---
 
-<div align="center">
-  
-  ![Gerardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzcoatl397&show_icons=true&theme=radical)
+## Skills
 
-</div>
+- **Programming Languages:** 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<div align="center">
-  
-  <!-- Laravel Badge -->
-  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
+- **Web Development Frameworks:** 
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-</div>
+- **Databases:** 
+  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
