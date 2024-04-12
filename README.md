@@ -2,11 +2,10 @@
 
 Estudiante de Ingeniería en Sistemas Computacionales en el Centro Universitario Hidalguense, México. Tengo 21 años y estoy enfocado en el desarrollo de software.
 
-🔭 Actualmente estoy trabajando en **EncuestaTec**
+🔭 Actualmente estoy trabajando en **DevJobs**
 
-🌱 Actualmente estoy aprendiendo **PHP, Laravel, PostgreSQL**. Estoy aprendiendo Laravel con el proyecto DevJobs del curso de Laravel.
+🌱 Actualmente estoy aprendiendo **PHP, Laravel, MYSQL**.
 
-🤝 Estoy buscando ayuda con **EncuestaTec**
 
 💬 Pregúntame sobre **Python, HTML, CSS, JS**
 
