@@ -19,3 +19,10 @@ I'm a Software Engineering student at Universidad Politecnica Pachuca, Mexico. I
   ![Gerardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzcoatl397&show_icons=true&theme=radical)
 
 </div>
+
+<div align="center">
+  
+  <!-- Laravel Badge -->
+  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"></a>
+
+</div>
