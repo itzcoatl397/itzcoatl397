@@ -1,31 +1,28 @@
+# ¡Hola! 👋 Soy Gerardo Itzcoatl Maldonado Palacios
 
-# ¡Hola! Soy Gerardo Itzcoatl Maldonado Palacios 👋
+Estudiante de Ingeniería en Sistemas Computacionales en el Centro Universitario Hidalguense, México. Tengo 21 años y estoy enfocado en el desarrollo de software.
 
-Soy estudiante de Ingeniería en Sistemas Computacionales en el Centro Universitario Hidalgense, México. Tengo 20 años y me apasiona aprender cosas nuevas. ❤️
+🔭 Actualmente estoy trabajando en **EncuestaTec**
 
-🔭 Actualmente estoy trabajando en varios proyectos para mejorar mis habilidades y conocimientos en desarrollo de software.
+🌱 Actualmente estoy aprendiendo **PHP, Laravel, PostgreSQL**. Estoy aprendiendo Laravel con el proyecto DevJobs del curso de Laravel.
 
-🌱 Actualmente estoy aprendiendo [menciona lo que estás aprendiendo].
+🤝 Estoy buscando ayuda con **EncuestaTec**
 
-👯 Estoy buscando colaborar en [menciona si estás abierto a colaboraciones].
+💬 Pregúntame sobre **Python, HTML, CSS, JS**
 
-📫 Cómo contactarme:
-   - [LinkedIn](https://www.linkedin.com/in/gerardo-itzcoatl-maldonado-palacios-b92975205/)
-   - [Instagram](https://www.instagram.com/maldonadoitz/)
+📫 Cómo contactarme: [itzcoatl3b@gmail.com](mailto:itzcoatl3b@gmail.com)
 
----
+⚡ Dato curioso: Cuando programo, me gusta ver al Pantera Rosa. Me gusta creer que da soluciones al código.
 
-## Habilidades
+## Conéctate conmigo:
+- [GitHub](https://github.com/itzcoatl397)
 
+## Lenguajes y Herramientas:
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzcoatl397&show_icons=true&theme=radical" alt="Gerardo's GitHub stats">
-</div>
-
-
